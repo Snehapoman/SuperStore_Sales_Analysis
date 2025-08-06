@@ -6,11 +6,3 @@ The SuperStore dataset includes information on orders, sales, profits, shipping 
 
 This project is ideal for business analysts, data enthusiasts, or students who want to understand how to convert a basic sales dataset into a professional, executive-level dashboard. It showcases the capabilities of Power BI in data cleaning, modeling, visualization, and storytelling, while also reinforcing best practices in dashboard design and business intelligence reporting. 
 
-Tools Used:-
-Power BI Desktop (.pbix)
-SuperStore dataset (CSV)
-
-How to Use:-
-Download the .pbix file.
-Open it in Power BI Desktop.
-Interact with the filters and visuals to explore insights.
