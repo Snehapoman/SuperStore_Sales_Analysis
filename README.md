@@ -5,3 +5,12 @@ This project is a comprehensive sales analysis dashboard developed using Power B
 The SuperStore dataset includes information on orders, sales, profits, shipping modes, and customer demographics. Through a series of interconnected charts, slicers, and KPI cards, the dashboard highlights key business metrics like total sales, profit margins, discounts, and order quantities. Users can drill down to see how specific regions or products are performing, detect underperforming areas, and compare profitability across segments. Additionally, the dashboard includes dynamic filters for year, category, region, and other key fields to make the analysis more flexible and user-centric.
 
 This project is ideal for business analysts, data enthusiasts, or students who want to understand how to convert a basic sales dataset into a professional, executive-level dashboard. It showcases the capabilities of Power BI in data cleaning, modeling, visualization, and storytelling, while also reinforcing best practices in dashboard design and business intelligence reporting. 
+
+Tools Used:-
+Power BI Desktop (.pbix)
+SuperStore dataset (CSV)
+
+How to Use:-
+Download the .pbix file.
+Open it in Power BI Desktop.
+Interact with the filters and visuals to explore insights.
